@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // Application theme data, you can set the colors for the application as
         // you want
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.indigo[200],
       ),
       home: MyHomePage(title: 'Flutter Demo Clicker Counter Home Page'),
     );
